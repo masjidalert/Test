@@ -1,0 +1,6 @@
+{
+  "name": "MasjidAlert",
+  "description": "Modern, trustworthy, and distinctly Islamic community alert and prayer times app with dignified Janazah notifications and synchronized mosque kiosk display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
